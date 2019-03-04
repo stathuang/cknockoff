@@ -1,0 +1,9 @@
+name: "cknockoff-website"
+output_dir: "."
+navbar:
+  title: "Conditional Knockoff"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Gaussian Models"
+      href: CKnockoff.html
