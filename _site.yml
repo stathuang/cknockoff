@@ -5,5 +5,9 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Gaussian Models"
-      href: CKnockoff.html
+    - text: "General Gaussian Models"
+      href: gaussian.html
+    - text: "Gaussian Graphical Models"
+      href: ggm.html
+    - text: "Discrete Graphical Models"
+      href: dgm.html
