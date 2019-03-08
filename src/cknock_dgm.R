@@ -3,6 +3,7 @@
 ## Script purpose: General Discrete Graphical Models
 ## Date: 2019-03-05
 ## Author: Dongming Huang (dhuang01@g.harvard.edu)
+## Status: Finished commenting up to line 103
 ##################################################-
 
 # General conditional knockoff for discrete graphical models----
