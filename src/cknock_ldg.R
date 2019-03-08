@@ -6,7 +6,7 @@
 ##################################################-
 
 
-# modify the decompose function in package `knockoof`
+# modify the decompose function in package `knockoff`
 # return the SVD of a de-mean covariate matrix and compute the U matrix
 decompose.demean=function (X)
 {
